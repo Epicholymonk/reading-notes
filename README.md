@@ -1,5 +1,7 @@
-# Reading Notes
+# Code 201 Reading Notes
 
-Table of Contents
+This is a collection of all my notes for my reading assigments throughout the course.
+
+## Table of Contents
 
 [Reading 1](reading-01.md)
