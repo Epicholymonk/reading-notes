@@ -2,4 +2,4 @@
 
 Table of Contents
 
-[Reading 1](reading-01)
+[Reading 1](reading-01.md)
